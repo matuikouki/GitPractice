@@ -1,8 +1,8 @@
 # GitPractice
 demo 
 
-##reprise 
-* リスト
-+リスト
+## reprise 
+- リスト
+- リスト2
   
 > 引用
