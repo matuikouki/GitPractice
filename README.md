@@ -1,7 +1,7 @@
 # GitPractice
 demo 
 
-##　- reprise 
+##- reprise 
 * リスト
 +リスト
   
