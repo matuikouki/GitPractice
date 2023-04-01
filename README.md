@@ -2,6 +2,6 @@
 demo 
 
 - reprise 
-* reprise
+ * reprise
 + reprise
   
